@@ -1,0 +1,71 @@
+Store Name: TrendyThreads Apparel
+
+Overview:
+TrendyThreads Apparel is a modern clothing retailer specializing in casual wear, formal attire, and seasonal collections for men, women, and children. Our mission is to provide high-quality, stylish clothing at affordable prices while delivering exceptional customer service.
+
+Store Layout:
+The store is divided into five main sections:
+1. Men's Wear – Includes shirts, trousers, jeans, jackets, and accessories.
+2. Women's Wear – Includes dresses, skirts, blouses, pants, and handbags.
+3. Children's Wear – Includes clothing for ages 0–14, footwear, and school uniforms.
+4. Seasonal Collection – Rotating section featuring summer, winter, and festive wear.
+5. Accessories – Includes belts, hats, scarves, jewelry, and sunglasses.
+
+Opening and Closing Procedures:
+Opening:
+- Arrive 30 minutes before store opening.
+- Turn on lights, music, and air conditioning.
+- Check the cash register and ensure adequate change is available.
+- Restock shelves and arrange displays neatly.
+- Perform a quick floor cleaning if necessary.
+
+Closing:
+- Announce store closing 15 minutes before the end of the day.
+- Assist remaining customers and finalize sales.
+- Count cash and reconcile with sales records.
+- Turn off lights, music, and air conditioning.
+- Lock all entrances and activate the security alarm.
+
+Customer Service Guidelines:
+- Greet every customer within 30 seconds of entry.
+- Offer assistance without being intrusive.
+- Handle returns and exchanges according to store policy.
+- Maintain a friendly and professional tone at all times.
+- Escalate complaints to the store manager if unresolved.
+
+Inventory Management:
+- Conduct weekly stock checks.
+- Use the POS system to track sales and restocking needs.
+- Mark down slow-moving items for clearance.
+- Rotate seasonal stock promptly.
+
+Health and Safety:
+- Keep aisles clear of obstructions.
+- Ensure fire exits are accessible at all times.
+- Report any hazards to the store manager immediately.
+- Follow proper lifting techniques when handling heavy boxes.
+
+Staff Dress Code:
+- Wear the official TrendyThreads polo shirt and name badge.
+- Maintain a neat and clean appearance.
+- Closed-toe shoes are mandatory for safety.
+
+Promotions and Sales:
+- Update promotional signage before store opening.
+- Ensure sale items are clearly marked.
+- Inform customers about ongoing offers.
+
+Returns and Exchanges Policy:
+- Items can be returned within 14 days with a receipt.
+- Clothing must be unworn, unwashed, and with original tags.
+- Refunds are processed to the original payment method.
+
+Emergency Procedures:
+- In case of fire, evacuate customers and staff immediately.
+- Call emergency services and follow the evacuation plan.
+- For medical emergencies, provide first aid if trained and call for help.
+
+Technical Specifications for POS System:
+- Model: RetailPro X200
+- Connectivity: Ethernet and Wi-Fi
+- Backup: Automatic cloud sync every 15 minutes
